@@ -13,7 +13,7 @@ A QA system over images and documents using vision-language models and retrieval
 - LangChain orchestration
 
 
-➡️ [View the project on GitHub]([https://github.com/armandoordonez/job-application-agent](https://github.com/armandoordonez/multimodal-reasoning-system))
+➡️ [View the project on GitHub]((https://github.com/armandoordonez/multimodal-reasoning-system))
 
 ---
 
@@ -43,7 +43,8 @@ Time series pipeline for real-time business KPI forecasting and anomaly alerts.
 - Kafka + Spark Streaming for real-time processing
 - Interactive dashboards (Streamlit or Dash)
 
- _Coming soon_
+ [View the project on GitHub](https://github.com/armandoordonez/anomaly-forecasting-system)
+
 
 ---
 
@@ -53,11 +54,11 @@ A model that translates natural language questions into SQL queries, fine-tuned 
 - SQLite test backend
 - Streamlit interface for live query testing
 
- _Coming soon_
+ [View the project on GitHub](https://github.com/armandoordonez/nl2sql-transformer)
+
 
 ---
 
-## Relevant Portfolio Projects
 
 ### 📈 [XGBoost for Banking Defaults](https://github.com/armandoordonez/XGBoost_Banking_Defaults)
 Credit risk prediction using XGBoost and feature engineering on banking datasets.

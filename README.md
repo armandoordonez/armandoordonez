@@ -13,6 +13,8 @@ A QA system over images and documents using vision-language models and retrieval
 - LangChain orchestration
 
 
+➡️ [View the project on GitHub]([https://github.com/armandoordonez/job-application-agent](https://github.com/armandoordonez/multimodal-reasoning-system))
+
 ---
 
 ### ⚙️ ## 🤖 Featured Project: AI-Powered Job Application Agent

@@ -15,13 +15,22 @@ A QA system over images and documents using vision-language models and retrieval
 
 ---
 
-### ⚙️ 2. MLOps CI/CD Pipeline for Machine Learning Models
-A full production-grade pipeline: training, versioning, model packaging, and API deployment with automation.
-- MLflow + DVC for experiment tracking and data versioning
-- FastAPI + Docker for inference services
-- GitHub Actions + Terraform for CI/CD and IaC
+### ⚙️ ## 🤖 Featured Project: AI-Powered Job Application Agent
 
- _Coming soon_
+
+This system builds an autonomous agent that scrapes real job listings from the web, retrieves key job data, calls a language model to generate customized resumes and cover letters, validates the output using guardrails and custom evaluations, and includes a human-in-the-loop step for quality assurance.
+
+### Key Capabilities:
+- 🔍 Web scraping with Puppeteer
+- 🧠 Prompt-based generation using LLMs (OpenAI, Claude, etc.)
+- ✅ Custom evaluation of keyword relevance and tone
+- 🛡️ Guardrails to detect hallucinations or unsafe output
+- 👨‍💻 Human review with editable markdown UI
+- 🧪 Test-first development (Jest, E2E)
+- 💻 Built in TypeScript with modern architecture (monorepo + Next.js)
+
+➡️ [View the project on GitHub](https://github.com/armandoordonez/job-application-agent)
+
 
 ---
 

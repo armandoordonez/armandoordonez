@@ -75,10 +75,9 @@ Rule-based backtesting strategies on historical market data.
 
 ## 📬 Contact
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Website: _Coming soon_
-- Email: armando.ordonez@yourdomain.com
+- LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/armandoordonez/))
+- Email: armandoordonez@gmail.com
 
----
 
-_“Build AI systems that learn, adapt, and scale.”_
+
+_“Ora et Labora.”_

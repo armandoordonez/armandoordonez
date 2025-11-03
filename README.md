@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an Artificial Intelligence & Data Leader focus
 
 ## 📬 Contact
 
-- LinkedIn: [linkedin.com/in/armandoordonez]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/armandoordonez/))
+- LinkedIn: https://www.linkedin.com/in/armandoordonez/
 - Email: armandoordonez@gmail.com
 
 
